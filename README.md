@@ -1,2 +1,4 @@
-# OCR
-OCR made using EasyOcr
+## 👀 On Screen Reader 
+
+# OCR made using EasyOCR 
+
